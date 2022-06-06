@@ -1,0 +1,31 @@
+<XMI xmi.version="1.2"  xmlns:UML="org.omg.xmi.namespace.UML"  timestamp="10 January 2010 00:19:19 GMT" >
+<XMI.content>
+<UML:Diagram isVisible="false"  zoom="1.0"  name="Sequence"  xmi.id="DCE.B037387B-E363-A910-2EC3-BE7BC96E556C" >
+<UML:GraphElement.position>
+     <XMI.field>0</XMI.field>
+     <XMI.field>0</XMI.field>
+</UML:GraphElement.position>
+<UML:GraphNode.size>
+     <XMI.field>803</XMI.field>
+     <XMI.field>548</XMI.field>
+</UML:GraphNode.size>
+<UML:Diagram.viewport>
+     <XMI.field>0</XMI.field>
+     <XMI.field>0</XMI.field>
+</UML:Diagram.viewport>
+<UML:DiagramElement.property>
+<UML:Property value="DCE.8E59215D-9843-14D4-3219-6D2D8B577286"  key="netbeans-diagram-namespace" />
+<UML:Property value="DCE.43EDE440-8C3B-1910-F487-3458D67BCE0B"  xmi.id="Property2_PEID"  key="netbeans-diagram-projectID" />
+<UML:Property value="false"  key="Show Message Numbers" />
+<UML:Property value="true"  key="Show Return Messages" />
+</UML:DiagramElement.property>
+<UML:GraphElement.semanticModel>
+<UML:SimpleSemanticModelElement presentation=""  xmi.id="DCE.B037387B-E363-A910-2EC3-BE7BC96E556C"  typeinfo="Sequence Diagram" />
+</UML:GraphElement.semanticModel>
+<UML:GraphElement.contained>
+</UML:GraphElement.contained>
+<UML:Diagram.owner>
+</UML:Diagram.owner>
+</UML:Diagram>
+</XMI.content>
+</XMI>
